@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1601134815 source:d:\documents\esg\learnc101\assignment3\main.cpp
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	"MenuBar.h"
+	"Interfaces.h"
+	<math.h>
+
+1600878979 d:\documents\esg\learnc101\assignment3\menubar.h
+	<windows.h>
+
+1600889983 d:\documents\esg\learnc101\assignment3\interfaces.h
+	<windows.h>
+	<iostream>
+
+1602014085 source:d:\documents\esg\learnc101\assignment3  - modified\main.cpp
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	"MenuBar.h"
+	"Interfaces.h"
+	"GRAPHOUT.h"
+	<math.h>
+
+1601255990 d:\documents\esg\learnc101\assignment3  - modified\menubar.h
+	<windows.h>
+
+1601254594 d:\documents\esg\learnc101\assignment3  - modified\interfaces.h
+	<windows.h>
+	<iostream>
+
+1601421546 d:\documents\esg\learnc101\assignment3  - modified\graphout.h
+
+1670743679 source:c:\users\sthembiso musana\documents\programming\c-and-cpp\assignment3  - modified\main.cpp
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	"MenuBar.h"
+	"Interfaces.h"
+	"GRAPHOUT.h"
+	<math.h>
+
+1670743679 c:\users\sthembiso musana\documents\programming\c-and-cpp\assignment3  - modified\menubar.h
+	<windows.h>
+
+1670743679 c:\users\sthembiso musana\documents\programming\c-and-cpp\assignment3  - modified\interfaces.h
+	<windows.h>
+	<iostream>
+
+1670743679 c:\users\sthembiso musana\documents\programming\c-and-cpp\assignment3  - modified\graphout.h
+
